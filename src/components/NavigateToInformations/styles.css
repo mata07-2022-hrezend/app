@@ -1,0 +1,15 @@
+#informations {
+    position: fixed;
+    display: flex;
+    bottom: 0;
+    left: 0;
+}
+
+#informations button {
+    background-color: transparent;
+    border: none;
+}
+
+#informations button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+#navigate-to-top {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    right: 0;
+}
+
+#navigate-to-top button {
+    background-color: transparent;
+    border: none;
+}
+
+#navigate-to-top button:hover {
+    cursor: pointer;
+}
+
+#navigate-to-top .hidden {
+    display: hidden;
+}
