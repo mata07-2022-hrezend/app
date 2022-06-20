@@ -2,6 +2,9 @@
   "name": "mata07",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
